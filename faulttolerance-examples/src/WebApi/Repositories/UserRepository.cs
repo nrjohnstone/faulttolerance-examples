@@ -3,6 +3,7 @@ using Polly;
 using Polly.CircuitBreaker;
 using Polly.Wrap;
 using WebApi.Policies;
+using WebApi.Proxies;
 
 namespace WebApi.Repositories
 {
